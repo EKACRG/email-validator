@@ -1,7 +1,7 @@
 # EMAIL VALIDATOR APP
 
 This Email Validator App is a simple tool that allows you to check whether an email address is valid or not.<br>
-It utilizes the Top-Rated Email Check API from RapidAPI to perform the email validation process.<br>
+It utilizes an Email Check API from RapidAPI to perform the email validation process.<br>
 You can use this app to quickly determine the validity of an email address and whether its domain is disposable or not.
 The user interface of this Email Validator App has been designed to resemble the UI of a similar project showcased in one of RapidAPI's blogs. 
 I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app.
