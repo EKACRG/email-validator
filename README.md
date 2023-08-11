@@ -4,7 +4,7 @@ This Email Validator App is a simple tool that allows you to check whether an em
 It utilizes an Email Check API from RapidAPI to perform the email validation process.<br>
 You can use this app to quickly determine the validity of an email address and whether its domain is disposable or not.
 The user interface of this Email Validator App has been designed to resemble the UI of a similar project showcased in one of RapidAPI's blogs. 
-I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app.<br>
+I was inspired by their design and wanted to replicate a visually appealing and user-friendly interfacefor this app.<br>
 **Email Validator API:** https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-disposable-domain
 
 ## Features
