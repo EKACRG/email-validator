@@ -12,7 +12,7 @@ Email Validator API: https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-
 - Check if the email address domain is a disposable domain.
 - Get instant feedback on whether the email is valid or not.
 
-# Live Application
+## Live Application
 You can find it online at this url: https://anouarelkihal.github.io/email-validator/
 > ![email-validator-screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/9b40f3f4-ee5d-48e6-ac7d-0a7ee15e6b69)
 
