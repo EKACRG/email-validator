@@ -9,7 +9,8 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 ## Getting Started
 1. Create a RAPID API Account
 2. Subscribe to Test:
-> FOTO
+> ![screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/3fa331e6-0536-481f-9308-02d96b26b4a2)
+
 3. Replace YOUR_EMAIL_CHECK_API_KEY in the javascript file:
 ```javascript
 const options = {
@@ -27,6 +28,6 @@ const options = {
 - Get instant feedback on whether the email is valid or not.
 
 ## Live Application
-You can find it online at this url: https://anouarelkihal.github.io/email-validator/
+You can find it online at this url: [email-validator.eabug.repl.co](https://email-validator.eabug.repl.co/)
 > ![email-validator-screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/9b40f3f4-ee5d-48e6-ac7d-0a7ee15e6b69)
 
