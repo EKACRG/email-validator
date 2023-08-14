@@ -11,7 +11,7 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 2. Subscribe to Test:
 > ![screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/3fa331e6-0536-481f-9308-02d96b26b4a2)
 
-3. Replace YOUR_EMAIL_CHECKER_API_KEY in the javascript file:
+3. Replace YOUR_EMAIL_CHECKER_API_KEY in the JavaScript file:
 ```javascript
 const options = {
   method: 'GET',
