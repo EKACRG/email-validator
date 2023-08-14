@@ -21,7 +21,7 @@ const fetchFunction = (URL) => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'YOUR_EMAIL_CHECK_API_KEY',
+            'X-RapidAPI-Key': 'YOUR_EMAIL_CHECKER_API_KEY',
             'X-RapidAPI-Host': 'mailcheck.p.rapidapi.com'
         }
     };
