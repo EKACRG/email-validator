@@ -1,7 +1,7 @@
 # EMAIL VALIDATOR APP
 
 This Email Validator App is a simple tool that allows you to check whether an email address is valid or not.<br>
-It utilizes an [Email Check API](https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-disposable-domain) from RapidAPI to perform the email validation process.<br>
+It utilizes an [Email Checker API](https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-disposable-domain) from RapidAPI to perform the email validation process.<br>
 You can use this app to quickly determine the validity of an email address and whether its domain is disposable or not.
 The user interface of this Email Validator App has been designed to resemble the UI of a similar project showcased in one of RapidAPI's blogs. 
 I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app.
@@ -11,12 +11,12 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 2. Subscribe to Test:
 > ![screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/3fa331e6-0536-481f-9308-02d96b26b4a2)
 
-3. Replace YOUR_EMAIL_CHECK_API_KEY in the javascript file:
+3. Replace YOUR_EMAIL_CHECKER_API_KEY in the javascript file:
 ```javascript
 const options = {
   method: 'GET',
   headers: {
-    'X-RapidAPI-Key': 'YOUR_EMAIL_CHECK_API_KEY',
+    'X-RapidAPI-Key': 'YOUR_EMAIL_CHECKER_API_KEY',
     'X-RapidAPI-Host': 'spotify-scraper.p.rapidapi.com'
   }
 }
