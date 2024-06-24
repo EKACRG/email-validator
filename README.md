@@ -28,6 +28,6 @@ const options = {
 - Get instant feedback on whether the email is valid or not.
 
 ## Live Application
-Online website: [email-validator](https://994f7791-a6c0-4a0d-b094-4c9a7e4817c4-00-hy5vsgkuymv8.picard.replit.dev/)
+Online website: [email-validator](https://anouarelkihal.github.io/email-validator/)
 > ![email-validator-screen](https://github.com/AnouarElKihal/email-validator/assets/68613907/9b40f3f4-ee5d-48e6-ac7d-0a7ee15e6b69)
 
